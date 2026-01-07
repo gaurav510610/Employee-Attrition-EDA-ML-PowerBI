@@ -82,11 +82,11 @@ The goal is to provide **actionable insights for HR teams** and demonstrate **en
 
 - **Logistic Regression**
 
-   -Accuracy: ~77%
+   - Accuracy: ~77%
 
-   -ROC-AUC: ~0.80
+   - ROC-AUC: ~0.80
 
-   -Strong recall for attrition cases (useful for identifying at-risk employees)
+   - Strong recall for attrition cases (useful for identifying at-risk employees)
 
 - **Random Forest**
 
