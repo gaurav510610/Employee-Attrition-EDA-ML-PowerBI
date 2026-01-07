@@ -134,6 +134,18 @@ The Power BI dashboard consists of **three professional pages:**
 
   - Attrition by Work-Life Balance
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](screenshots/page1_executive_summary.png)
+
+### Workforce & Job Analysis
+![Workforce Analysis](screenshots/page2_workforce_analysis.png)
+
+### Experience, Engagement & Work Conditions
+![Experience & Engagement](screenshots/page3_experience_engagement.png)
+
+
 ## Repository Structure
 
 Employee-Attrition-EDA-ML-PowerBI/
