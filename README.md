@@ -29,9 +29,10 @@ The goal is to provide **actionable insights for HR teams** and demonstrate **en
 ## Analysis Workflow
 
 **1. Data Cleaning & Preprocessing**
-     - Removed irrelevant columns
+
+- Removed irrelevant columns
      
-     - Created attrition flag and meaningful buckets (age, salary, experience, tenure)
+- Created attrition flag and meaningful buckets (age, salary, experience, tenure)
 **2.Exploratory Data Analysis (EDA)**
 
     - Demographic analysis (Age, Gender, Marital Status, Education)
