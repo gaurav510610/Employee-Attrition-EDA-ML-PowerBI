@@ -51,6 +51,7 @@ The goal is to provide **actionable insights for HR teams** and demonstrate **en
    - Bucket creation for continuous variables
 
    - Encoding categorical variables
+  
 **4.Predictive Modeling**
 
   - Logistic Regression
