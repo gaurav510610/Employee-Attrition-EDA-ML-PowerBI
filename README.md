@@ -138,13 +138,13 @@ The Power BI dashboard consists of **three professional pages:**
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+![Executive Summary](https://github.com/gaurav510610/Employee-Attrition-EDA-ML-PowerBI/blob/main/Screenshorts/page1_executive_summary.png)
 
 ### Workforce & Job Analysis
-![Workforce Analysis](screenshots/page2_workforce_analysis.png)
+![Workforce Analysis](https://github.com/gaurav510610/Employee-Attrition-EDA-ML-PowerBI/blob/main/Screenshorts/page2_workforce_analysis.png)
 
 ### Experience, Engagement & Work Conditions
-![Experience & Engagement](screenshots/page3_experience_engagement.png)
+![Experience & Engagement](https://github.com/gaurav510610/Employee-Attrition-EDA-ML-PowerBI/blob/main/Screenshorts/page3_experience_engagement.png)
 
 
 ## Repository Structure
