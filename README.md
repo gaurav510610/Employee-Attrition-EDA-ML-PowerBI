@@ -33,17 +33,18 @@ The goal is to provide **actionable insights for HR teams** and demonstrate **en
 - Removed irrelevant columns
      
 - Created attrition flag and meaningful buckets (age, salary, experience, tenure)
+
 **2.Exploratory Data Analysis (EDA)**
 
-    - Demographic analysis (Age, Gender, Marital Status, Education)
+- Demographic analysis (Age, Gender, Marital Status, Education)
 
-    - Compensation analysis (Monthly Income, Salary Buckets)
+- Compensation analysis (Monthly Income, Salary Buckets)
 
-    - Job & role analysis (Department, Job Role, Job Level)
+- Job & role analysis (Department, Job Role, Job Level)
 
-    - Experience & engagement analysis (Experience, Years at Company, Satisfaction, Work-Life Balance)
+- Experience & engagement analysis (Experience, Years at Company, Satisfaction, Work-Life Balance)
 
-    - Work conditions (Overtime, Business Travel, Distance from Home)
+- Work conditions (Overtime, Business Travel, Distance from Home)
     
 **3.Feature Engineering**
 
