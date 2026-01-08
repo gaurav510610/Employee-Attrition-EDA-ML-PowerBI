@@ -8,6 +8,8 @@ This project analyzes employee attrition patterns and identifies key factors inf
 
 The objective is to deliver **data-driven insights** that help HR teams understand attrition drivers and support informed workforce decisions.
 
+---
+
 
 ## Tools & Technologies
 
