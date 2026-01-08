@@ -79,7 +79,7 @@ The objective is to deliver **data-driven insights** that help HR teams understa
 
   - Employees with **frequent business travel** are more likely to leave
 
-## Machine Learning Summary**
+## Machine Learning Summary
 
 - **Logistic Regression**
 
@@ -135,7 +135,7 @@ The Power BI dashboard consists of **three professional pages:**
 
   - Attrition by Work-Life Balance
 
-## Dashboard Preview
+ ## Power BI Dashboard Overview
 
 ### Executive Summary
 ![Executive Summary](https://github.com/gaurav510610/Employee-Attrition-EDA-ML-PowerBI/blob/main/Screenshorts/page1_executive_summary.png)
@@ -154,7 +154,7 @@ Employee-Attrition-EDA-ML-PowerBI/
 ├── data/              # Raw & cleaned datasets
 ├── notebooks/         # Jupyter notebook (EDA + ML)
 ├── power_bi/          # Power BI dashboard (.pbix)
-├── screenshots/       # Dashboard screenshots
+├── Screenshots/       # Dashboard screenshots
 └── README.md
 
 ## Business Value
@@ -172,4 +172,5 @@ This project demonstrates how data-driven analysis can help HR teams:
 
 **Gaurav Singh**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+Data Analyst | Python | SQL | Power BI | Machine Learning
+
