@@ -147,22 +147,18 @@ The Power BI dashboard consists of **three professional pages:**
 ![Experience & Engagement](https://github.com/gaurav510610/Employee-Attrition-EDA-ML-PowerBI/blob/main/Screenshorts/page3_experience_engagement.png)
 
 
+
 ## Repository Structure
 
 Employee-Attrition-EDA-ML-PowerBI/
-
+```
 │
-
-├── data/              # Raw & cleaned datasets
-
-├── notebooks/         # Jupyter notebook (EDA + ML)
-
-├── power_bi/          # Power BI dashboard (.pbix)
-
-├── Screenshots/       # Dashboard screenshots
-
+├── data/ # Raw & cleaned datasets
+├── notebooks/ # Jupyter notebook (EDA + ML)
+├── power_bi/ # Power BI dashboard (.pbix)
+├── screenshots/ # Dashboard screenshots
 └── README.md
-
+```
 ## Business Value
 This project demonstrates how data-driven analysis can help HR teams:
 
