@@ -152,9 +152,13 @@ The Power BI dashboard consists of **three professional pages:**
 Employee-Attrition-EDA-ML-PowerBI/
 
 │
+
 ├── data/              # Raw & cleaned datasets
+
 ├── notebooks/         # Jupyter notebook (EDA + ML)
+
 ├── power_bi/          # Power BI dashboard (.pbix)
+
 ├── Screenshots/       # Dashboard screenshots
 └── README.md
 
