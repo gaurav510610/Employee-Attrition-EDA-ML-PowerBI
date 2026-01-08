@@ -148,6 +148,5 @@ This project demonstrates how data-driven analysis can help HR teams:
 **Gaurav Singh**  
 Data Analyst | Python | SQL | Power BI | Machine Learning  
 
- LinkedIn: https://www.linkedin.com/in/gaurav-singh-604492340/  
- Email: gaurav510610@gmail.com
-
+ **LinkedIn:** https://www.linkedin.com/in/gaurav-singh-604492340/  
+ **Email:** gaurav510610@gmail.com
