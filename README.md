@@ -35,7 +35,7 @@ The objective is to deliver **data-driven insights** that help HR teams understa
      
 - Created attrition flag and meaningful buckets (age, salary, experience, tenure)
 
-**2.Exploratory Data Analysis (EDA)**
+**2. Exploratory Data Analysis (EDA)**
 
 - Demographic analysis (Age, Gender, Marital Status, Education)
 
@@ -160,6 +160,7 @@ Employee-Attrition-EDA-ML-PowerBI/
 ├── power_bi/          # Power BI dashboard (.pbix)
 
 ├── Screenshots/       # Dashboard screenshots
+
 └── README.md
 
 ## Business Value
