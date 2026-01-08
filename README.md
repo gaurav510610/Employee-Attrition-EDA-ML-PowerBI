@@ -150,6 +150,7 @@ The Power BI dashboard consists of **three professional pages:**
 ## Repository Structure
 
 Employee-Attrition-EDA-ML-PowerBI/
+
 │
 ├── data/              # Raw & cleaned datasets
 ├── notebooks/         # Jupyter notebook (EDA + ML)
