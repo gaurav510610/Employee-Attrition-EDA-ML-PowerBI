@@ -5,7 +5,7 @@
 
 This project analyzes employee attrition patterns to identify key factors
 associated with employees leaving an organization. The analysis is performed
-using Python for exploratory data analysis and exploratory machine learning,
+using Python for exploratory data analysis and machine learning,
 and insights are presented through an interactive Power BI dashboard.
 
 The focus of the project is to derive clear, data-driven insights that can help
@@ -72,7 +72,7 @@ HR teams understand attrition drivers and support informed workforce decisions.
 ## Machine Learning Summary
 
 Exploratory machine learning models were built to understand the feasibility
-of predicting employee attrition based on historical HR data
+of predicting employee attrition based on historical HR data.
 
 ### Logistic Regression
 - Accuracy: ~77%  
@@ -134,7 +134,7 @@ Employee-Attrition-EDA-ML-PowerBI/
 ├── Data/ # Raw & cleaned datasets
 ├── notebooks/ # Jupyter notebook (EDA + ML)
 ├── power_bi/ # Power BI dashboard (.pbix)
-├── Screenshorts/ # Dashboard Screenshots
+├── Screenshorts/ # Dashboard Screenshorts
 └── README.md
 ```
 
