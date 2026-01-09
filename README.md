@@ -3,10 +3,14 @@
 
 ## Project Overview
 
-Employee attrition is a critical challenge for organizations as it directly impacts productivity, cost, and workforce stability.  
-This project analyzes employee attrition patterns and identifies key factors influencing employees leaving the organization using **Python (EDA & Machine Learning)** and an **interactive Power BI dashboard**.
+This project analyzes employee attrition patterns to identify key factors
+associated with employees leaving an organization. The analysis is performed
+using Python for exploratory data analysis and exploratory machine learning,
+and insights are presented through an interactive Power BI dashboard.
 
-The objective is to deliver **data-driven insights** that help HR teams understand attrition drivers and support informed workforce decisions.
+The focus of the project is to derive clear, data-driven insights that can help
+HR teams understand attrition drivers and support informed workforce decisions.
+
 
 ---
 
@@ -67,14 +71,19 @@ The objective is to deliver **data-driven insights** that help HR teams understa
 
 ## Machine Learning Summary
 
+Exploratory machine learning models were built to understand the feasibility
+of predicting employee attrition based on historical HR data
+
 ### Logistic Regression
 - Accuracy: ~77%  
 - ROC-AUC: ~0.80  
-- Strong recall for attrition cases (useful for identifying at-risk employees)  
+- Demonstrated strong recall for attrition cases, making it useful for
+  identifying employees at higher risk of leaving. 
 
 ### Random Forest
 - Accuracy: ~85%  
-- Identified key drivers such as Monthly Income, Age, Experience, Overtime, and Satisfaction levels  
+- Highlighted important drivers such as Monthly Income, Age, Experience,
+  Overtime, and Satisfaction levels.
 
 ---
 
@@ -135,11 +144,10 @@ Employee-Attrition-EDA-ML-PowerBI/
 
 ## Business Value
 
-This project demonstrates how data-driven analysis can help HR teams:
-- Identify high-risk employee segments  
-- Design targeted retention strategies  
-- Reduce hiring and training costs  
-- Improve employee engagement and satisfaction  
+The insights from this project can help HR teams:
+- Identify employee segments with higher attrition risk
+- Understand the impact of compensation, workload, and engagement factors
+- Support data-informed retention and workforce planning decisions
 
 ---
 
