@@ -125,7 +125,7 @@ Employee-Attrition-EDA-ML-PowerBI/
 ├── Data/ # Raw & cleaned datasets
 ├── notebooks/ # Jupyter notebook (EDA + ML)
 ├── power_bi/ # Power BI dashboard (.pbix)
-├── Screenshorts/ # Dashboard screenshots
+├── Screenshorts/ # Dashboard Screenshots
 └── README.md
 ```
 
